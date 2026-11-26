@@ -1,1 +1,2 @@
 - GET /notes
+- DELETE /notes/{id}
